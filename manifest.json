@@ -3,8 +3,8 @@
     "short_name": "On3Digital",
     "start_url": "/",
     "display": "standalone",
-    "background_color": "#fff00",
-    "theme_color": "#fff00",
+    "background_color": "#70F50D",
+    "theme_color": "#70F50D",
     "icons": [
         {
             "src": "/img/icon-192px.png",
